@@ -7,13 +7,6 @@ int main(int argc, char const *argv[])
     printf("Enter a no: ");
     scanf("%d",&no);
 
-/*res=no&1;
-if (res==0)
-printf("Even no\n");
-
-else
-printf("Odd no\n"); */
-// till here, it is the program to check whether no is even or odd 
 
 while(no!=1)
 {
